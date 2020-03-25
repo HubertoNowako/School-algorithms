@@ -189,7 +189,7 @@ namespace Projekt1_Wyszukiwanie
 					binarne.BinSearchTime(_oMatrix, _iMiddleNumber);
 
 					//Sumowanie czasów
-					_lTimeSum += Time.ElapsedMilliseconds;
+					_lTimeSum += Time.ElapsedTicks;
 
 					//Resetowanie stopera
 					Time.Restart();
@@ -197,8 +197,8 @@ namespace Projekt1_Wyszukiwanie
 					//Szukanie srodkowego elementu
 					binarne.BinSearchTime(_oMatrix, int.MaxValue);
 
-					//Sumowanie czasów
-					_lTimeSum += Time.ElapsedMilliseconds;
+                    //Sumowanie czasów
+                    _lTimeSum += Time.ElapsedTicks;
 
 					//Resetowanie stopera
 					Time.Reset();
@@ -273,7 +273,7 @@ namespace Projekt1_Wyszukiwanie
 					binarne.BinSearchTime(_oMatrix, int.MaxValue);
 
 					//Pomiar czasu
-					_lTimeSum += Time.ElapsedMilliseconds;
+					_lTimeSum += Time.ElapsedTicks;
 
 					//Resetowanie stopera
 					Time.Reset();

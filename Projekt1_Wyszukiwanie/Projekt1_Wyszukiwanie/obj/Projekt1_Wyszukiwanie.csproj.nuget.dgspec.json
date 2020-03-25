@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programowanie\\C#\\Algorytmy\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj": {}
+    "C:\\Users\\Hubert\\Desktop\\School-algorithms-master\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj": {}
   },
   "projects": {
-    "E:\\Programowanie\\C#\\Algorytmy\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj": {
+    "C:\\Users\\Hubert\\Desktop\\School-algorithms-master\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programowanie\\C#\\Algorytmy\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj",
+        "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\School-algorithms-master\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj",
         "projectName": "Projekt1_Wyszukiwanie",
-        "projectPath": "E:\\Programowanie\\C#\\Algorytmy\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj",
-        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "E:\\Programowanie\\C#\\Algorytmy\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\obj\\",
+        "projectPath": "C:\\Users\\Hubert\\Desktop\\School-algorithms-master\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie.csproj",
+        "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hubert\\Desktop\\School-algorithms-master\\Projekt1_Wyszukiwanie\\Projekt1_Wyszukiwanie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

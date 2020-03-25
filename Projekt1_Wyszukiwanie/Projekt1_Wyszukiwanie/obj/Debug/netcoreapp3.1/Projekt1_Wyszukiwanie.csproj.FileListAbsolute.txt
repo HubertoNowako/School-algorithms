@@ -9,3 +9,15 @@ E:\Programowanie\C#\Algorytmy\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\De
 E:\Programowanie\C#\Algorytmy\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.AssemblyInfo.cs
 E:\Programowanie\C#\Algorytmy\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.dll
 E:\Programowanie\C#\Algorytmy\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.pdb
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\bin\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.exe
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\bin\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.deps.json
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\bin\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.runtimeconfig.json
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\bin\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.runtimeconfig.dev.json
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\bin\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.dll
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\bin\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.pdb
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.csprojAssemblyReference.cache
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.dll
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.pdb
+C:\Users\Hubert\Desktop\School-algorithms-master\Projekt1_Wyszukiwanie\Projekt1_Wyszukiwanie\obj\Debug\netcoreapp3.1\Projekt1_Wyszukiwanie.genruntimeconfig.cache
